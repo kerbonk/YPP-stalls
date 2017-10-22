@@ -18,6 +18,8 @@ def updateCommods(temp):
     craftCommods()
     updateCraftWindow()
     createPphRankings()
+    f3=open('Dubcost.csv','w')
+    f3.write(str(int(app.getEntry('Dubloon Cost'))))
 
 def craftCommods():
     with open('recipes.csv','r') as f:
@@ -36,6 +38,8 @@ def updateStalls(temp):
         f2.write(allstalls[i].output()+'\n')
     updateCraftWindow()
     createPphRankings()
+    f3=open('Dubcost.csv','w')
+    f3.write(str(int(app.getEntry('Dubloon Cost'))))
 
 def updateCraftWindow():
     craftCommods()
