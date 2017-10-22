@@ -1,0 +1,135 @@
+Swill,distillery,Sugar cane,7,Iron,1,Wood,4,Basic,2,Produces,10,Dubloons,0
+Grog,distillery,Sugar cane,10,Wood,5,Iron,1,Basic,2,Skilled,2,Produces,10,Dubloons,0
+Fine Rum,distillery,Sugar cane,15,Wood,8,Iron,1,Basic,2,Skilled,2,Expert,2,Produces,10,Dubloons,0
+Hemp oil,distillery,Hemp,15,Iron,1,Wood,2,Basic,3,Produces,10,Dubloons,0
+Whisking potion,apothecary,Cowslip,1,Cubanite,1,Basic,2,Skilled,1,Produces,1,Dubloons,1
+Whisking potion (large),apothecary,Cowslip,5,Cubanite,5,Basic,10,Skilled,5,Produces,1,Dubloons,5
+Skintone elixer,apothecary,Madder,3,Old mans beard,3,Yarrow,3,Sassafras,3,Weld,3,Basic,1,Skilled,3,Expert,4,Produces,1,Dubloons,7
+Universal hair,apothecary,Sassafras,2,Elderberries,2,Old mans beard,2,Madder,2,Yarrow,2,Weld,2,Butterfly weed,2,Iris root,2,Basic,1,Skilled,3,Expert,4,Produces,1,Dubloons,4
+Hair control,apothecary,Broom flower,3,Pokeweed berries,3,Lobelia,3,Lily of the valley,3,Indigo,3,Cowslip,3,Iris root,3,Nettle,3,Basic,1,Skilled,3,Expert,4,Produces,1,Dubloons,4
+Beard control,apothecary,Broom flower,2,Pokeweed berries,2,Lobelia,2,Lily of the valley,2,Indigo,2,Cowslip,2,Iris root,2,Nettle,2,Basic,1,Skilled,3,Expert,4,Produces,1,Dubloons,4
+Leg regeneration,apothecary,Lily of the valley,1,Cowslip,1,Hemp oil,1,Basic,3,Produces,1,Dubloons,3
+Hand regrowth,apothecary,Lily of the valley,1,Cowslip,1,Hemp oil,1,Basic,3,Produces,1,Dubloons,3
+Patch-eye remedy,apothecary,Lily of the valley,1,Cowslip,2,Hemp oil,1,Basic,5,Produces,1,Dubloons,3
+Starfish repelent,apothecary,Lily of the valley,1,Cowslip,1,Hemp oil,2,Basic,4,Produces,1,Dubloons,3
+Paintbrush,apothecary,Old mans beard,1,Basic,1,Produces,1,Dubloons,0
+Red paint,apothecary,Hemp oil,12,Madder,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Tan paint,apothecary,Hemp oil,12,Old mans beard,1,Iris root,1,Basic,3,Produces,12,Dubloons,0
+White paint,apothecary,Hemp oil,12,Tellurium,2,Basic,1,Skilled,1,Expert,1,Produces,12,Dubloons,1
+Black paint,apothecary,Hemp oil,12,Krakens blood,1,Skilled,1,Expert,2,Produces,12,Dubloons,2
+Grey paint,apothecary,Hemp oil,12,Iris root,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Yellow paint,apothecary,Hemp oil,12,Weld,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Pink paint,apothecary,Hemp oil,12,Broom flower,1,Serandite,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Violet paint,apothecary,Hemp oil,12,Lobelia,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Purple paint,apothecary,Hemp oil,12,Pokeweed berries,1,Basic,2,Skilled,1,Produces,12,Dubloons,2
+Navy paint,apothecary,Hemp oil,12,Indigo,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Blue paint,apothecary,Hemp oil,12,Elderberries,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Aqua paint,apothecary,Hemp oil,12,Cowslip,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Lime paint,apothecary,Hemp oil,12,Lily of the valley,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Green paint,apothecary,Hemp oil,12,Nettle,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Orange paint,apothecary,Hemp oil,12,Butterfly weed,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Maroon paint,apothecary,Hemp oil,12,Madder,1,Old mans beard,1,Basic,1,Skilled,1,Expert,1,Produces,12,Dubloons,1
+Brown paint,apothecary,Hemp oil,12,Old mans beard,1,Basic,3,Produces,12,Dubloons,1
+Gold paint,apothecary,Hemp oil,12,Gold nuggets,10,Skilled,1,Expert,2,Produces,12,Dubloons,2
+Rose paint,apothecary,Hemp oil,12,Madder,1,Broom flower,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Lavender paint,apothecary,Hemp oil,12,Pokeweed berries,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Mint paint,apothecary,Hemp oil,12,Nettle,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Light green paint,apothecary,Hemp oil,12,Nettle,1,Iris root,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Magenta paint,apothecary,Hemp oil,12,Pokeweed berries,1,Broom flower,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Lemon paint,apothecary,Hemp oil,12,Weld,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Peach paint,apothecary,Hemp oil,12,Butterfly weed,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Light blue paint,apothecary,Hemp oil,12,Elderberries,1,Tellurium,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Persimmon paint,apothecary,Hemp oil,12,Butterfly weed,1,Madder,1,Basic,2,Skilled,1,Produces,12,Dubloons,1
+Varnish,apothecary,Hemp oil,12,Nettle,1,Basic,1,Produces,10,Dubloons,0
+Lacquer,apothecary,Hemp oil,18,Lobelia,2,Pokeweed,1,Skilled,1,Produces,10,Dubloons,0
+Red enamel,apothecary,Iron 4,Madder,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Orange enamel,apothecary,Iron 4,Butterfly weed,6,Basic,2,Produces,7,Dubloons,0
+Yellow enamel,apothecary,Iron 4,Weld,6,Basic,2,Produces,7,Dubloons,0
+Green enamel,apothecary,Iron 4,Nettle,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Blue enamel,apothecary,Iron 4,Elderberries,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Purple enamel,apothecary,Iron 4,Pokeweed berries,6,Skilled,1,Expert,1,Produces,7,Dubloons,0
+White enamel,apothecary,Iron 4,Yarrow,6,Basic,2,Produces,7,Dubloons,0
+Black enamel,apothecary,Iron 4,Sassafras,6,Skilled,1,Expert,1,Produces,7,Dubloons,0
+Tan enamel,apothecary,Iron 4,Old mans beard,6,Iris root,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Grey enamel,apothecary,Iron 4,Iris root,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Pink enamel,apothecary,Iron 4,Broom flower,6,Serandite,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Violet enamel,apothecary,Iron 4,Lobelia,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Navy enamel,apothecary,Iron 4,Indigo,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Aqua enamel,apothecary,Iron 4,Cowslip,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Lime enamel,apothecary,Iron 4,Lily of the valley,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Maroon enamel,apothecary,Iron 4,Madder,6,Old mans beard,6,Basic,1,Skilled,1,Expert,1,Produces,7,Dubloons,0
+Brown enamel,apothecary,Iron 4,Old mans beard,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Gold enamel,apothecary,Iron 4,Gold nuggets,20,Skilled,1,Expert,2,Produces,7,Dubloons,0
+Rose enamel,apothecary,Iron 4,Madder,4,Broom flower,4,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Lavender enamel,apothecary,Iron 4,Pokeweed berries,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Mint enamel,apothecary,Iron 4,Nettle,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Light green enamel,apothecary,Iron 4,Nettle,4,Iris root,4,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Magenta enamel,apothecary,Iron 4,Pokeweed berries,4,Broom flower,4,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Lemon enamel,apothecary,Iron 4,Weld,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Peach enamel,apothecary,Iron 4,Butterfly weed,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Light blue enamel,apothecary,Iron 4,Elderberries,6,Tellurium,2,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Persimmon enamel,apothecary,Iron 4,Madder,6,Butterfly weed,6,Basic,1,Skilled,1,Produces,7,Dubloons,0
+Red dye,apothecary,Madder,20,Basic,4,Skilled,2,Produces,5,Dubloons,0
+Yellow dye,apothecary,Weld,20,Basic,4,Skilled,2,Produces,5,Dubloons,0
+Blue dye,apothecary,Elderberries,20,Basic,4,Skilled,2,Produces,5,Dubloons,0
+Green dye,apothecary,Nettle,20,Basic,4,Skilled,2,Produces,5,Dubloons,0
+Krakens blood,apothecary,Krakens ink,20,Basic,4,Skilled,2,Produces,1,Dubloons,0
+Red cloth,weavery,Hemp,10,Red dye,1,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine red cloth,weavery,Hemp,15,Red dye,2,Basic,5,Skilled,4,Expert,3,Produces,10,Dubloons,0
+Tan cloth,weavery,Hemp,10,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine tan cloth,weavery,Hemp,15,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Grey cloth,weavery,Hemp,10,Chalcocite,1,Tellurium,1,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine grey cloth,weavery,Hemp,15,Chalcocite,2,Tellurium,2,Basic,5,Skilled,4,Expert,3,Produces,10,Dubloons,0
+Yellow cloth,weavery,Hemp,10,Yellow dye,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine yellow cloth,weavery,Hemp,15,Yellow dye,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Pink cloth,weavery,Hemp,10,Red dye,1,Serandite,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine pink cloth,weavery,Hemp,15,Red dye,2,Serandite,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Violet cloth,weavery,Hemp,10,Red dye,1,Blue dye,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine violet cloth,weavery,Hemp,15,Red dye,2,Blue dye,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Purple cloth,weavery,Hemp,10,Red dye,1,Blue dye,1,Lorandite,1,Basic,5,Skilled,5,Expert,2,Produces,10,Dubloons,0
+Fine purple cloth,weavery,Hemp,15,Red dye,2,Blue dye,2,Lorandite,2,Basic,5,Skilled,5,Expert,6,Produces,10,Dubloons,0
+Navy cloth,weavery,Hemp,10,Blue dye,1,Papagoite,1,Basic,5,Skilled,5,Expert,2,Produces,10,Dubloons,0
+Fine navy cloth,weavery,Hemp,15,Blue dye,2,Papagoite,2,Basic,5,Skilled,5,Expert,6,Produces,10,Dubloons,0
+Blue cloth,weavery,Hemp,10,Blue dye,1,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine blue cloth,weavery,Hemp,15,Blue dye,2,Basic,5,Skilled,4,Expert,3,Produces,10,Dubloons,0
+Aqua cloth,weavery,Hemp,10,Blue dye,1,Sincosite,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine aqua cloth,weavery,Hemp,15,Blue dye,2,Sincosite,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Lime cloth,weavery,Hemp,10,Green dye,1,Tellurium,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine lime cloth,weavery,Hemp,15,Green dye,2,Tellurium,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Green cloth,weavery,Hemp,10,Green dye,1,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine green cloth,weavery,Hemp,15,Green dye,2,Basic,5,Skilled,4,Expert,3,Produces,10,Dubloons,0
+Orange cloth,weavery,Hemp,10,Red dye,1,Yellow dye,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine orange cloth,weavery,Hemp,15,Red dye,2,Yellow dye,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+White cloth,weavery,Hemp,10,Tellurium,2,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine white cloth,weavery,Hemp,15,Tellurium,3,Basic,5,Skilled,4,Expert,3,Produces,10,Dubloons,0
+Black cloth,weavery,Hemp,10,Krakens blood,2,Basic,5,Skilled,5,Expert,5,Produces,10,Dubloons,0
+Fine black cloth,weavery,Hemp,15,Krakens blood,3,Basic,10,Skilled,10,Expert,10,Produces,10,Dubloons,0
+Maroon cloth,weavery,Hemp,10,Red dye,1,Leushite,1,Basic,5,Skilled,5,Expert,2,Produces,10,Dubloons,0
+Fine maroon cloth,weavery,Hemp,15,Red dye,2,Leushite,2,Basic,5,Skilled,5,Expert,6,Produces,10,Dubloons,0
+Brown cloth,weavery,Hemp,10,Old mans beard,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine brown cloth,weavery,Hemp,15,Old mans beard,2,Basic,5,Skilled,5,Produces,10,Dubloons,0
+Gold cloth,weavery,Hemp,10,Gold nuggets,20,Basic,5,Skilled,5,Expert,5,Produces,10,Dubloons,0
+Fine gold cloth,weavery,Hemp,15,Gold nuggets,30,Basic,10,Skilled,10,Expert,10,Produces,10,Dubloons,0
+Rose cloth,weavery,Hemp,10,Red dye,1,Serandite,1,Tellurium,2,Basic,4,Skilled,4,Produces,10,Dubloons,0
+Fine rose cloth,weavery,Hemp,15,Red dye,2,Serandite,2,Tellurium,4,Basic,5,Skilled,7,Produces,10,Dubloons,0
+Lavender cloth,weavery,Hemp,10,Red dye,1,Blue dye,1,Tellurium,2,Basic,4,Skilled,5,Produces,10,Dubloons,0
+Fine lavender cloth,weavery,Hemp,15,Red dye,2,Blue dye,2,Tellurium,4,Basic,5,Skilled,7,Produces,10,Dubloons,0
+Mint cloth,weavery,Hemp,10,Green dye,1,Tellurium,2,Basic,4,Skilled,5,Produces,10,Dubloons,0
+Fine mint cloth,weavery,Hemp,15,Green dye,2,Tellurium,4,Basic,5,Skilled,7,Produces,10,Dubloons,0
+Light green cloth,weavery,Hemp,10,Green dye,1,Chalcocite,1,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine light green cloth,weavery,Hemp,15,Green dye,2,Chalcocite,2,Basic,5,Skilled,4,Expert,2,Produces,10,Dubloons,0
+Magenta cloth,weavery,Hemp,10,Red dye,1,Blue dye,1,Serandite,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine magenta cloth,weavery,Hemp,15,Red dye,2,Blue dye,2,Serandite,2,Basic,5,Skilled,5,Expert,2,Produces,10,Dubloons,0
+Lemon cloth,weavery,Hemp,10,Yellow dye,1,Tellurium,2,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine lemon cloth,weavery,Hemp,15,Yellow dye,2,Tellurium,4,Basic,5,Skilled,4,Expert,2,Produces,10,Dubloons,0
+Peach cloth,weavery,Hemp,10,Red dye,1,Yellow dye,1,Tellurium,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine peach cloth,weavery,Hemp,15,Red dye,2,Yellow dye,2,Tellurium,2,Basic,4,Skilled,3,Expert,1,Produces,10,Dubloons,0
+Light blue cloth,weavery,Hemp,10,Blue dye,1,Tellurium,2,Basic,5,Skilled,4,Produces,10,Dubloons,0
+Fine light blue cloth,weavery,Hemp,15,Blue dye,2,Tellurium,4,Basic,5,Skilled,4,Expert,2,Produces,10,Dubloons,0
+Persimmon cloth,weavery,Hemp,10,Red dye,2,Yellow dye,1,Basic,4,Skilled,3,Produces,10,Dubloons,0
+Fine persimmon cloth,weavery,Hemp,15,Red dye,3,Yellow dye,2,Basic,4,Skilled,3,Expert,1,Produces,10,Dubloons,0
+Sail cloth,weavery,Hemp,50,Basic,30,Skilled,10,Produces,50,Dubloons,0
+Small Cannon Balls,blacksmith,Iron,5,Wood,1,Basic,3,Produces,10,Dubloons,0
+Medium Cannon Balls,blacksmith,Iron,8,Wood,3,Basic,3,Skilled,2,Produces,10,Dubloons,0
+Large Cannon Balls,blacksmith,Iron,12,Wood,4,Basic,2,Skilled,5,Produces,10,Dubloons,0
+Lifeboats,shipyard,Iron,30,Wood,85,Grog,15,Basic,50,Skilled,5,Produces,10,Dubloons,0
