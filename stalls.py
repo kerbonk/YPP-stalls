@@ -345,7 +345,7 @@ app.stopSubWindow()
 app.startSubWindow("Profit per hour")
 app.setBg(titlebgc)
 app.addLabel("pphCommod", "Commodity",0,0)
-app.addLabel("pphProf", "Profit",0,1)
+app.addLabel("pphProf", "Profit/hr",0,1)
 app.setLabelWidth("pphCommod", 20)
 app.setLabelWidth("pphProf", 20)
 for i in ["pphCommod","pphProf"]:

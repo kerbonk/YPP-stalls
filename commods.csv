@@ -1,61 +1,61 @@
-Sugar cane,6,10,18,0.8,basic
-Hemp,3,4,30,0.5,basic
-Iron,6,10,10,0.9,basic
-Wood,15,19,70,1.9,basic
-Stone,1,1,2,0.1,basic
-Hemp oil,32,41,36,4.3,basic
-Varnish,60,99,110,8.4,basic
-Lacquer,407,699,,46.1,basic
-Krakens ink,900,1998,1100,86.4,basic
-Swill,23,35,,3.3,ship
-Grog,61,64,,6.0,ship
-Fine Rum,77,84,,,ship
-Small Cannon Balls,30,31,,3.0,ship
-Medium Cannon Balls,72,76,,6.4,ship
-Large Cannon Balls,83,87,,,ship
-Lifeboats,600,898,,,ship
-Madder,358,420,360,42.3,herb
-Old mans beard,4,25,25,0.8,herb
-Yarrow,2501,4000,5500,265.8,herb
-Sassafras,3202,4979,5500,344.9,herb
-Iris root,24,50,117,3.5,herb
-Weld,82,115,100,9.7,herb
-Broom flower,811,1250,1400,100.7,herb
-Lobelia,606,799,1050,53.2,herb
-Pokeweed berries,1298,1650,1250,114.5,herb
-Indigo,1706,3000,2162,182.5,herb
-Elderberries,130,250,349,13.9,herb
-Cowslip,4,7,150,0.5,herb
-Lily of the valley,9,20,160,2.4,herb
-Nettle,115,598,330,8.6,herb
-Butterfly weed,479,1000,720,50.7,herb
-Lorandite,2163,2499,,218.8,mineral
-Leushite,1359,1660,,173.9,mineral
-Tellurium,12,21,18,2.0,mineral
-Thoraianite,320,1150,,38.0,mineral
-Chalcocite,700,1799,,70.7,mineral
-Cubanite,40,50,80,3.2,mineral
-Serandite,241,280,260,19.1,mineral
-Papagoite,811,1800,,100.7,mineral
-Sincosite,75,95,,6.8,mineral
-Masuyite,960,1390,,107.2,mineral
-Gold nuggets,3558,4000,4400,375.4,mineral
+Sugar cane,3,6,18,0.5,basic
+Hemp,3,3,30,0.5,basic
+Iron,8,9,10,0.9,basic
+Wood,18,19,70,2.2,basic
+Stone,3,25,2,0.2,basic
+Hemp oil,26,38,36,4.0,basic
+Varnish,60,99,110,8.3,basic
+Lacquer,400,599,599,43.8,basic
+Krakens ink,650,1998,1100,87.8,basic
+Swill,25,29,29,3.3,ship
+Grog,45,52,,6.0,ship
+Fine Rum,82,89,,,ship
+Small Cannon Balls,27,31,,3.0,ship
+Medium Cannon Balls,64,72,,6.4,ship
+Large Cannon Balls,74,79,,,ship
+Lifeboats,610,888,,,ship
+Madder,193,400,360,22.6,herb
+Old mans beard,4,12,25,0.7,herb
+Yarrow,1913,2600,5500,245.7,herb
+Sassafras,2002,3249,5500,254.9,herb
+Iris root,41,50,117,3.5,herb
+Weld,48,115,100,7.4,herb
+Broom flower,506,1250,1400,84.3,herb
+Lobelia,605,790,1050,53.0,herb
+Pokeweed berries,1002,1650,1250,109.0,herb
+Indigo,1705,3000,2162,182.3,herb
+Elderberries,130,250,349,11.6,herb
+Cowslip,1,7,150,0.5,herb
+Lily of the valley,9,17,160,2.1,herb
+Nettle,126,597,330,6.9,herb
+Butterfly weed,373,1000,720,37.5,herb
+Lorandite,1957,2500,2499,210.2,mineral
+Leushite,1370,1660,1660,177.3,mineral
+Tellurium,12,20,18,1.9,mineral
+Thoraianite,321,1149,1150,39.3,mineral
+Chalcocite,711,1798,1799,70.1,mineral
+Cubanite,28,45,80,3.4,mineral
+Serandite,190,280,260,20.7,mineral
+Papagoite,816,2000,2000,72.6,mineral
+Sincosite,75,95,95,7.4,mineral
+Masuyite,980,1390,1390,123.8,mineral
+Gold nuggets,3560,4000,4400,372.5,mineral
 Red cloth,156,300,,32.3,cloth
 Fine red cloth,276,750,,58.6,cloth
-Tan cloth,50,75,,9.6,cloth
+Tan cloth,45,52,,9.6,cloth
 Fine tan cloth,37,100,,14.0,cloth
-White cloth,40,100,,22.1,cloth
+White cloth,42,95,,22.1,cloth
 Fine white cloth,60,150,,27.9,cloth
 Black cloth,1700,5000,,391.5,cloth
 Fine black cloth,2600,7500,,554.7,cloth
 Grey cloth,104,225,,29.8,cloth
 Fine grey cloth,198,450,,43.4,cloth
-Yellow cloth,60,128,,14.6,cloth
+Yellow cloth,61,125,,14.6,cloth
 Fine yellow cloth,110,225,,23.1,cloth
-Pink cloth,164,340,,28.2,cloth
+Pink cloth,164,350,,28.2,cloth
 Fine pink cloth,315,650,,52.5,cloth
 Violet cloth,203,450,,37.2,cloth
-Fine violet cloth,400,850,,52.8,cloth
+Fine violet cloth,400,840,,52.8,cloth
 Purple cloth,459,1350,,92.1,cloth
 Fine purple cloth,896,2700,,165.2,cloth
 Navy cloth,210,570,,41.4,cloth
@@ -70,9 +70,9 @@ Green cloth,90,255,,16.5,cloth
 Fine green cloth,162,480,,26.2,cloth
 Orange cloth,201,260,,29.7,cloth
 Fine orange cloth,352,800,,47.0,cloth
-Maroon cloth,316,980,,52.3,cloth
+Maroon cloth,316,960,,52.3,cloth
 Fine maroon cloth,610,1800,,92.3,cloth
-Brown cloth,30,75,,11.8,cloth
+Brown cloth,32,70,,11.8,cloth
 Fine brown cloth,50,113,,18.5,cloth
 Gold cloth,7356,10500,,618.7,cloth
 Fine gold cloth,11044,14250,,802.1,cloth
@@ -84,7 +84,7 @@ Mint cloth,93,279,,18.1,cloth
 Fine mint cloth,164,492,,30.3,cloth
 Light green cloth,157,400,,21.4,cloth
 Fine light green cloth,297,750,,39.3,cloth
-Sail cloth,61,73,,8.9,cloth
+Sail cloth,62,68,,8.9,cloth
 Magenta cloth,230,650,,36.1,cloth
 Fine magenta cloth,460,1380,,65.0,cloth
 Lemon cloth,67,198,,15.3,cloth
@@ -95,62 +95,62 @@ Light blue cloth,100,300,,18.7,cloth
 Fine light blue cloth,182,450,,32.7,cloth
 Persimmon cloth,279,800,,45.6,cloth
 Fine persimmon cloth,430,1290,,61.1,cloth
-Red dye,930,1897,,183.5,dye
-Krakens blood,13551,20000,,1786.3,dye
-Yellow dye,400,499,,46.2,dye
-Blue dye,381,749,,76.8,dye
-Green dye,300,649,,59.6,dye
-Red paint,250,420,,43.7,paint
+Red dye,750,1880,,153.5,dye
+Krakens blood,14020,19000,,1770.7,dye
+Yellow dye,310,499,,50.0,dye
+Blue dye,381,748,,73.8,dye
+Green dye,350,649,,56.4,dye
+Red paint,300,415,,43.7,paint
 Tan paint,43,150,,6.6,paint
-White paint,265,490,,47.4,paint
-Black paint,1100,6424,,302.6,paint
-Grey paint,430,550,,42.2,paint
-Yellow paint,240,622,,40.1,paint
-Pink paint,300,684,,,paint
-Violet paint,240,784,,50.4,paint
-Purple paint,250,1584,,104.9,paint
-Navy paint,477,984,,79.2,paint
-Blue paint,250,634,,50.1,paint
-Aqua paint,250,634,,,paint
-Lime paint,250,634,,40.8,paint
-Green paint,250,634,,41.7,paint
-Orange paint,250,784,,44.6,paint
-Maroon paint,280,784,,52.5,paint
-Brown paint,250,602,,41.7,paint
-Gold paint,1092,5998,,445.3,paint
-Rose paint,101,884,,,paint
-Lavender paint,40,884,,,paint
-Mint paint,40,784,,,paint
-Light green paint,40,784,,,paint
-Magenta paint,40,834,,,paint
-Lemon paint,101,784,,,paint
-Peach paint,40,784,,,paint
-Light blue paint,250,744,,61.6,paint
-Persimmon paint,40,834,,,paint
-Red enamel,280,365,410,34.7,enamel
-Orange enamel,426,665,710,74.3,enamel
-Yellow enamel,85,127,110,12.6,enamel
-Green enamel,200,244,300,15.2,enamel
-Blue enamel,203,292,310,19.5,enamel
-Purple enamel,900,1097,1200,116.4,enamel
-White enamel,2200,2900,3200,292.1,enamel
-Black enamel,3000,3989,4600,415.4,enamel
+White paint,300,487,,47.4,paint
+Black paint,1200,6413,,302.6,paint
+Grey paint,350,478,,42.2,paint
+Yellow paint,300,603,,40.1,paint
+Pink paint,300,663,,,paint
+Violet paint,300,763,,50.4,paint
+Purple paint,250,1200,,104.9,paint
+Navy paint,477,963,,79.2,paint
+Blue paint,300,613,,50.1,paint
+Aqua paint,250,613,,,paint
+Lime paint,300,613,,40.8,paint
+Green paint,300,613,,41.7,paint
+Orange paint,300,763,,44.6,paint
+Maroon paint,300,763,,52.5,paint
+Brown paint,300,583,,41.7,paint
+Gold paint,1350,5983,,445.3,paint
+Rose paint,101,873,,,paint
+Lavender paint,40,868,,,paint
+Mint paint,40,763,,,paint
+Light green paint,40,763,,,paint
+Magenta paint,40,818,,,paint
+Lemon paint,101,768,,,paint
+Peach paint,40,768,,,paint
+Light blue paint,250,497,,61.6,paint
+Persimmon paint,40,818,,,paint
+Red enamel,206,349,410,34.7,enamel
+Orange enamel,370,664,710,74.3,enamel
+Yellow enamel,71,90,110,12.6,enamel
+Green enamel,140,243,300,15.2,enamel
+Blue enamel,110,250,310,19.5,enamel
+Purple enamel,900,1050,1200,116.4,enamel
+White enamel,2200,2898,3200,292.1,enamel
+Black enamel,2002,3985,4600,415.4,enamel
 Tan enamel,25,148,260,9.3,enamel
 Grey enamel,25,150,260,9.3,enamel
 Pink enamel,572,1280,1500,116.2,enamel
 Violet enamel,501,900,960,66.0,enamel
 Navy enamel,637,1650,1600,135.6,enamel
 Aqua enamel,20,90,130,5.2,enamel
-Lime enamel,35,99,70,6.4,enamel
-Maroon enamel,241,499,330,43.2,enamel
+Lime enamel,33,99,70,6.4,enamel
+Maroon enamel,100,499,330,43.2,enamel
 Brown enamel,27,100,110,4.0,enamel
 Gold enamel,5251,30000,30000,731.8,enamel
-Rose enamel,849,1100,1200,98.8,enamel
+Rose enamel,403,1100,1200,98.8,enamel
 Lavender enamel,895,999,1100,91.3,enamel
 Mint enamel,120,400,400,13.9,enamel
-Light green enamel,90,248,300,16.8,enamel
-Magenta enamel,1300,1750,1800,156.2,enamel
+Light green enamel,61,248,300,16.8,enamel
+Magenta enamel,1297,1750,1800,156.2,enamel
 Lemon enamel,81,200,210,12.9,enamel
 Peach enamel,370,500,550,67.0,enamel
-Light blue enamel,200,499,550,23.9,enamel
+Light blue enamel,133,400,550,23.9,enamel
 Persimmon enamel,267,1000,1000,91.5,enamel
