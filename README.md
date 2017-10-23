@@ -2,25 +2,29 @@
 
 Mac setup:
 
-Download python:
+  Download python:
 
-  -https://www.python.org/downloads/
+    -https://www.python.org/downloads/
   
-Install packages:
+  Install packages:
 
-  -Open terminal and run the following commands:
+    -Open terminal and run the following commands:
   
-    pip install appJar
+      pip install appJar
     
-    pip install colour
+      pip install colour
     
-Download and extract the files on this page.
+  Download and extract the files on this page.
 
-Open terminal and navigate to the folder where they are stored.
+  Open terminal and navigate to the folder where they are stored.
 
-Run program:
+  Run program:
 
-python3 stalls.py
+  python3 stalls.py
+  
+Windows setup:
+
+
 
 How to use:
 
